@@ -1,7 +1,9 @@
 # PHUD
 Hud by Pickleknotts -- based on m0rehud.
 
-Thank you to TopHatCat for helping me get the hud to a releasable state lol
+Special Thanks:
+TopHatCat - Working on the mainmenu
+Wali - fixing notification bug
 
 ## Previews
 
