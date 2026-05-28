@@ -3,6 +3,7 @@ Hud by Pickleknotts -- based on m0rehud.
 
 Special Thanks:
 TopHatCat - Working on the mainmenu
+
 Wali - fixing notification bug
 
 ## Previews
